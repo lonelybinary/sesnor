@@ -1,10 +1,3 @@
-/***************************************************************************
-
-  Written by Taylor for http://lonelybinary.com
-  BSD license, all text above must be included in any redistribution
-  
- ***************************************************************************/
-
 #define LaserPin 8
 
 void setup ()
